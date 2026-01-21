@@ -1,2 +1,1 @@
-# Talenvy-Internship
-Internship projects
+AI/ML internship portfolio showcasing Python projects in Natural Language Processing and Computer Vision, including image caption generation, spam SMS detection, credit card fraud detection, movie genre classification, rule-based chatbot, and game AI implementations.
